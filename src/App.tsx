@@ -15,7 +15,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Teste do Vercel</h1>
+      <h1>Teste do Vercel 2</h1>
       <div className="card">
         
         <p>
